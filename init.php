@@ -1,9 +1,9 @@
 <?php
 
-$host="localhost";
-$db_user="u0909766_default";
-$db_password="Jzer!3cf";
-$db_name="u0909766_database";
+$host=;
+$db_user=;
+$db_password=;
+$db_name=;
 
 $con=mysqli_connect($host, $db_user, $db_password, $db_name);
 
